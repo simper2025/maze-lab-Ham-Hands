@@ -1,5 +1,6 @@
 namespace labyrinth;
 
+
 /* Enumerated type representing one of the four ports leaving a MazeCell. */
 public enum Port
 {
